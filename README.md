@@ -1,5 +1,6 @@
 # Software Engineerning Roadmap
 
+![](https://github.com/sairam7/software_engineering_basics/blob/main/images/software%20engineering%20basics.png)
 - Vim basics for coding more efficiently.
 - Understanding the need of debuggers.
 - Linting and maintaining coding standards of your project.
