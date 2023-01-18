@@ -19,6 +19,7 @@
   <a href="https://www.youtube.com/%40sairamtalks1432/playlists">
   <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
   </a>&ensp;
-
-
-
+  <a href="https://discord.gg/6Eq3Nz67jU">
+  <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+  
