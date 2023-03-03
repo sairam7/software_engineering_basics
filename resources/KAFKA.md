@@ -15,3 +15,4 @@
 3. [Kafka Consumers - Python implementation](https://www.youtube.com/watch?v=kE1W-dO3YAA&t=113s)
 4. [Kafka overview complete course - Udemy](https://www.udemy.com/course/apache-kafka/)
 5. [Kafka Admin learning Path - can skip if you are looking for pure development kind of roles](https://www.confluent.io/training/)
+6. [Kafka Certification Practice test series](https://www.udemy.com/course/confluent-certified-developer-for-apache-kafka/)
